@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyViewModel</string>
+    <string name="width">Lebar</string>
+    <string name="calculate">Hitung</string>
+    <string name="height">Tinggi</string>
+    <string name="length">Panjang</string>
+    <string name="txt_result">0</string>
+</resources>
